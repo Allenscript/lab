@@ -96,11 +96,11 @@ twitter:
   tooltip: Twitter
   link: https://twitter.com/$VALUE
 
-facebook:
-  icon: fa-brands fa-facebook
-  text: Facebook
-  tooltip: Facebook
-  link: https://facebook.com/$VALUE
+wechat:
+  icon: fa-brands fa-wechat
+  text: Twitter
+  tooltip: Wechat
+  link: $VALUE
 
 instagram:
   icon: fa-brands fa-instagram

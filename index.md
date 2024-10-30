@@ -1,34 +1,22 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to the Math+ML+X Lab! 试用版本
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Our research group focuses on the intersection of mathematics, machine learning, and real-world applications (X). We aim to bridge theory and practice by developing new mathematical frameworks and advancing machine learning methodologies, while applying them to solve practical challenges across various domains. Whether it's theoretical breakthroughs or impactful solutions, our goal is to explore innovative ideas that push the boundaries of what’s possible. We are passionate about fostering interdisciplinary collaboration and making meaningful contributions to both academia and industry! 
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
 
 {% include section.html %}
 
-## Highlights
+## News
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are excited to launch the Math+ML+X Seminar Series, a new platform dedicated to exploring the synergy between mathematics, machine learning, and diverse real-world applications (X). This seminar series brings together researchers at all career stages to share innovative ideas, foster collaboration, and showcase the latest advancements. Join us to dive into topics at the intersection of theory and practice!
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -40,10 +28,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
+
 
 {% capture text %}
 
