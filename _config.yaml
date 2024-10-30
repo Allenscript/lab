@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: MATH+ML+X Lab
-subtitle: by the Avils-Rivero Lab
-description: Welcome to the Math+ML+X Lab!
+title: Allenscript
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -11,8 +11,8 @@ links:
   # email: contact@your-lab.com
   # orcid: 0000-0001-8713-9213
   # google-scholar: ETJoidYAAAAJ
-  github: https://github.com/Math-ML-X
-  twitter: Math-ML-X
+  github: Allenscript
+  twitter: Allenscript
   wechat: images/wechat.png
   # youtube: YourLabChannel
 
